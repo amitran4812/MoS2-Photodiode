@@ -58,7 +58,7 @@ Electrical Characterization is performed once the complete fabrication process i
 ![flow](https://github.com/amitran4812/MoS2-Photodiode/blob/main/Images/FlowChart.png)
 ## Report
 
-[Final Report](https://drive.google.com/file/d/1SL1GERQPwuSdiMzho0GpxX1U8hZrAl9D/view?usp=sharing)
+[Final Report](Report.pdf)
 
 
 ## Acknowledgements
