@@ -6,7 +6,7 @@ In the project, fabrication of MoS2 photodiode is performed over a Si wafer and 
 
 ## Authors
 
-- [Amit Ranjan Sahu](https://www.linkedin.com/in/amit-ranjan-s-b45426bb/)
+- [Amit Ranjan Sahu](https://www.linkedin.com/in/amit-ranjan-sahu/)
 - [Aviraj Dewangan](https://www.linkedin.com/in/aviraj-dewangan-361bb71aa/)
 
 
