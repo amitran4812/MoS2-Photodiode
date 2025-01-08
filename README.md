@@ -55,7 +55,7 @@ Electrical Characterization | Probe Station |
 
 Electrical Characterization is performed once the complete fabrication process is completed using the probe station to get IvsV properties of the wafer. Since it is a photodiode, Electrical Characterization is performed in presence of light and in absence of light  to get the rise and fall time. Apart from this, current vs Time is also plotted with the help of Probe Station in the presence and absence of light.
 ## Flow Chart
-![flow]
+![flow](https://github.com/amitran4812/MoS2-Photodiode/blob/main/Images/FlowChart.png)
 ## Report
 
 [Final Report](https://drive.google.com/file/d/1SL1GERQPwuSdiMzho0GpxX1U8hZrAl9D/view?usp=sharing)
