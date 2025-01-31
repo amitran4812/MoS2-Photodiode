@@ -63,4 +63,4 @@ Electrical Characterization is performed once the complete fabrication process i
 
 
 ## Acknowledgements
-Highly thankful to the [Dr. Sayan Dey](https://www.linkedin.com/in/sayandey/), Assistant Professor, SECS, IIT Bhuabaneswar for providing opportunity to perform the project under his supervision. Also thankful to [Sukanya Mahalik](https://www.linkedin.com/in/sukanya-mahalik) for providing support and assistance for the completion of the project.
+Highly thankful to the [Dr. Sayan Dey](https://www.linkedin.com/in/sayandey/), SECS, IIT Bhuabaneswar for providing opportunity to perform the project under his supervision. Also thankful to [Sukanya Mahalik](https://www.linkedin.com/in/sukanya-mahalik) for providing support and assistance for the completion of the project.
